@@ -2,22 +2,40 @@
 		/*color: #EEE7B5;*/
 	background-color: #C9271A;
 	margin-bottom: 0%;
+	border: none;
 }
 
-a{
-	color: #EEE7B5;
-	text-decoration: none;
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	font-family: 'Merriweather', serif;
 }
 
+.navbar-default .navbar-nav>li>a {
+    color: #EEE7B5;
+}
+.navbar-default .navbar-brand {
+    color: #EEE7B5;
+}
+.dark {
+	background-color: black;
+	opacity: 0.6;
+	filter: alpha(opacity=);
+	padding:100px 0px;
+}
 .section-uno{
 	background-image: url(../img/creamy.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
+	padding: 10%;
 }
+
 /*corregir tipografia*/
 .creme{
 	color: #EEE7B5;
-	margin-top: 10%;
+	margin-top: 5%;
 }
 .the{
 color: #EEE7B5;
@@ -54,10 +72,13 @@ justify-content: center;
 	background-color: #EEE7B5;
 }
 
-.glyphicon{
-	font-size: 80px;
+.glyphicon, .icono {
+	font-size: 70px;
 }
 
+.desktop{
+	margin-top: 0;
+}
 
  .footer-parrafo{
 	padding: 2%;
