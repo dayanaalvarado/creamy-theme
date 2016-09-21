@@ -1,0 +1,67 @@
+.navbar {
+		/*color: #EEE7B5;*/
+	background-color: #C9271A;
+	margin-bottom: 0%;
+}
+
+a{
+	color: #EEE7B5;
+	text-decoration: none;
+}
+
+.section-uno{
+	background-image: url(../img/creamy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*corregir tipografia*/
+.creme{
+	color: #EEE7B5;
+	margin-top: 10%;
+}
+.the{
+color: #EEE7B5;
+
+}
+
+/*corregir justificacion del texto*/
+.parrafo-oh-so{
+margin-top: 3%;
+justify-content: center;
+}
+
+.section-dos{
+	padding: 3% 5%;
+	color: #C9271A;
+	background-color: #EEE7B5;
+}
+ .imagen-oh-so{
+ 	padding: 5%;
+ 	width: 100%;
+ }
+
+ .section-tres{
+
+	padding: 5%;
+	color: #EEE7B5;
+	background-color: #C9271A;
+}
+
+.section-cuatro{
+	padding: 5%;
+	padding-bottom: 8%;
+	color:  #C9271A;
+	background-color: #EEE7B5;
+}
+
+.glyphicon{
+	font-size: 80px;
+}
+
+
+ .footer-parrafo{
+	padding: 2%;
+	margin-bottom: 0%;
+	color: #EEE7B5;
+	background-color: #C9271A;
+}
